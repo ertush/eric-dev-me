@@ -1,0 +1,9 @@
+{% extends "body.html" %} {% block content %} {% if not page.params.hide_title
+%}
+<header class="post-header inner-sm">
+  <h1 class="post-title underline">{{ page.params.title }}</h1>
+</header>
+<!-- .post-header -->
+{% endif %} {% for section in page.params.sections %} {% set include_dict =
+{'section': section, 'site': site} %} {% set component = section.type |
+component_file %} {% include component %} {% endfor %} {% endblock %}

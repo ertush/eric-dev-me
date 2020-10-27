@@ -1,0 +1,62 @@
+<header id="masthead" class="site-header {{ site.params.header.background }}">
+  <div class="site-header-wrap">
+    <div class="site-header-inside">
+
+      <div class="site-branding">
+        {% if site.params.header.profile_img %}
+        <p class="profile">
+          <a href='{{ "/" | relative_url }}'><img src="{{ site.params.header.profile_img | relative_url }}"
+              class="avatar" alt="Author Avatar" /></a>
+        </p><!-- .profile -->
+        {% endif %}
+        <div class="site-identity">
+          <p class="site-title"><a href='{{ "/" | relative_url }}'>{{ site.params.header.title }}</a></p>
+          {% if site.params.header.tagline %}
+          <p class="site-description">{{ site.params.header.tagline }}</p>
+          {% endif %}
+        </div><!-- .site-identity -->
+        {% if site.params.header.has_nav or site.params.header.has_social %}
+        <button id="menu-toggle" class="menu-toggle"><span class="screen-reader-text">Menu</span><span class="icon-menu"
+            aria-hidden="true"></span></button>
+        {% endif %}
+      </div><!-- .site-branding -->
+
+      {% if site.params.header.has_nav or site.params.header.has_social %}
+      <nav id="main-navigation" class="site-navigation" aria-label="Main Navigation">
+        <div class="site-nav-wrap">
+          <div class="site-nav-inside">
+
+            {% if site.params.header.has_nav %}
+            <ul class="menu">
+              {% for action in site.params.header.nav_links %}
+                {% set pageUrl = page.url | trim('/') %}
+                {% set actionUrl = action.url | trim('/') %}
+                <li {{ classNames('menu-item', {'current-menu-item': pageUrl == actionUrl, 'menu-button': action.style == 'button' }) }}>
+                  <a {{ classNames({'button': action.style == 'button'}) }} href="{{ action.url | relative_url }}"{% if action.new_window %} target="_blank" rel="noopener"{% endif %}>{{ action.label }}</a>
+                </li>
+              {% endfor %}
+            </ul><!-- .menu -->
+            {% endif %}
+            {% if site.params.header.has_social %}
+            <div class="social-links">
+              {% for action in site.params.header.social_links %}
+              {% if action %}
+              <a {{ classNames({'button button-icon': action.style == 'icon'}) }} href="{{ action.url | relative_url }}"{% if action.new_window %} target="_blank" rel="noopener"{% endif %}>
+                {% if action.style == 'icon' and action.icon_class %}
+                <span class="fab {{ action.icon_class }}" aria-hidden="true"></span><span class="screen-reader-text">{{ action.label }}</span>
+                {% else %}
+                {{ action.label }}
+                {% endif %}
+              </a>
+              {% endif %}
+              {% endfor %}
+            </div><!-- .social-links -->
+            {% endif %}
+          </div><!-- .site-nav-inside -->
+        </div><!-- .site-nav-wrap -->
+      </nav><!-- .site-navigation -->
+      {% endif %}
+
+    </div><!-- .site-header-inside -->
+  </div><!-- .site-header-wrap -->
+</header><!-- .site-header -->
