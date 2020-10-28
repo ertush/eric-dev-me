@@ -1,0 +1,24 @@
+{% extends "body.html" %}
+
+{% block content %}
+
+  <article class="post page post-full">
+    <header class="post-header inner-sm">
+      <h1 class="post-title underline">{{ page.params.title }}</h1>
+      {% if page.params.subtitle %}
+      <div class="post-subtitle inner-sm">
+        {{ page.params.subtitle | safe }}
+      </div>
+      {% endif %}
+    </header>
+    {% if page.params.img_path %}
+    <div class="post-image">
+      <img src="{{ page.params.img_path | relative_url }}" alt="{{ page.params.title }}" />
+    </div>
+    {% endif %}
+    <div class="post-content inner-sm">
+      {{ page.content }}
+    </div>
+  </article><!-- .post -->
+
+{% endblock %}

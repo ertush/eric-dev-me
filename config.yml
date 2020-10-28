@@ -1,0 +1,66 @@
+baseurl: "/"
+title: "Stackbit Fresh Theme"
+page_load_js: "assets/js/main.js"
+params:
+  description: Personal blogging theme for Stackbit
+  layout_style: overflow
+  palette: blue
+  header:
+    title: "Eric Mutua"
+    tagline: eric.kimani@techcloud.co.ke
+    profile_img: images/eric-bw.jpg
+    background: dark
+    has_nav: true
+    nav_links:
+      - label: Home
+        url: /
+        style: link
+      - label: Blog
+        url: /blog/
+        style: link
+      - label: About
+        url: /about/
+        style: link
+      - label: Contact
+        url: /contact/
+        style: link
+    has_social: true
+    social_links:
+      - label: Twitter
+        url: https://twitter.com/eromtush
+        style: icon
+        icon_class: fa-twitter
+        new_window: true
+      - label: Instagram
+        url: https://www.facebook.com/profile.php?id=100008972190287
+        style: icon
+        icon_class: fa-facebook
+        new_window: true
+      - label: GitHub
+        url: https://github.com/ertush
+        style: icon
+        icon_class: fa-github
+        new_window: true
+      - label: LinkedIn
+        url: https://www.linkedin.com/in/eric-mutua-r77/
+        style: icon
+        icon_class: fa-linkedin
+        new_window: true
+      - label: DEV
+        url: https://dev.to/ertush
+        style: icon
+        icon_class: fa-dev
+        new_window: true
+  footer:
+    content: "&copy; All rights reserved."
+    links:
+      - label: Made with Stackbit.
+        url: https://www.stackbit.com
+        style: link
+        new_window: true
+sass:
+  input_file: sass/main.scss.njk
+  output_file: assets/css/main.css
+  indentWidth: 4
+  outputStyle: nested
+  precision: 10
