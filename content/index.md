@@ -18,16 +18,16 @@ sections:
     type: section_content
     title: Technologies & Tools
     content: |-
-      I'm farmiliar with the following tools and technologies:
+      I'm proficient with the following tools and technologies:
 
       **Operating Systems & Shells**
+      <hr>
 
       ![](https://img.shields.io/badge/os-linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
       ![](https://img.shields.io/badge/shell-bash-informational?style=flat&logo=GNU+Bash&logoColor=white&color=2bbc8a)
       ![](https://img.shields.io/badge/shell-powershell-informational?style=flat&logo=PowerShell&logoColor=white&color=2bbc8a)
 
       **Languages**
-
       <hr>
 
       ![](https://img.shields.io/badge/code-c-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
@@ -38,7 +38,6 @@ sections:
       ![](https://img.shields.io/badge/code-php-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
 
       **Frameworks & Runtimes**
-
       <hr>
 
       ![](https://img.shields.io/badge/runtime-nodejs-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
@@ -50,7 +49,6 @@ sections:
       ![](https://img.shields.io/badge/ci-github_actions-informational?style=flat&logo=Github+Actions&logoColor=white&color=2bbc8a)
 
       **Code Editors & Applications** 
-
       <hr>
 
       ![](https://img.shields.io/badge/code_editor-vscode-informational?style=flat&logo=Visual+Studio+Code&logoColor=white&color=2bbc8a)
@@ -58,21 +56,18 @@ sections:
       ![](https://img.shields.io/badge/iot_protocol-mosquitto-informational?style=flat&logo=Eclipse+Mosquitto&logoColor=white&color=2bbc8a)
 
       **Databases**
-
       <hr>
 
       ![](https://img.shields.io/badge/dbs-mongo-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
       ![](https://img.shields.io/badge/dbs-redis-informational?style=flat&logo=Redis&logoColor=white&color=2bbc8a)
       ![](https://img.shields.io/badge/dbs-influxdb-informational?style=flat&logo=InfluxDB&logoColor=white&color=2bbc8a)
 
+      **SBCs**
       <hr>
-
-      **SCBs**
 
       ![](https://img.shields.io/badge/SBC-raspberry_pi-informational?style=flat&logo=Raspberry+Pi&logoColor=white&color=2bbc8a)
       ![](https://img.shields.io/badge/iot-smart_things-informational?style=flat&logo=SmartThings&logoColor=white&color=2bbc8a)
-
-      
+    
     actions:
       - label: Contact Me
         url: "/contact"
