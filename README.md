@@ -1,6 +1,6 @@
  <img src="https://raw.githubusercontent.com/ertush/ertush/master/hello_Computer.gif" width="150px">
 
- ## Hi, I'm Eric <img src="https://raw.githubusercontent.com/ertush/ertush/master/wave.gif" width="30px">
+Hi, I'm Eric <img src="https://raw.githubusercontent.com/ertush/ertush/master/wave.gif" width="30px">
 
 
 
@@ -13,7 +13,7 @@ I enjoy:
  * Building (support makers) :toolbox:
  * Gaming :video_game:
 
-## :gear: Technologies and Tools
+## Technologies and Tools
 
 ![](https://img.shields.io/badge/os-linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/shell-bash-informational?style=flat&logo=GNU+Bash&logoColor=white&color=2bbc8a)

@@ -1,5 +1,5 @@
 baseurl: "/"
-title: "Stackbit Fresh Theme"
+title: "ertush"
 page_load_js: "assets/js/main.js"
 params:
   description: Personal blogging theme for Stackbit
@@ -52,7 +52,7 @@ params:
         icon_class: fa-dev
         new_window: true
   footer:
-    content: "&copy; All rights reserved."
+    content: "Eric Mutua &copy; All rights reserved."
     links:
       - label: Made with Stackbit.
         url: https://www.stackbit.com
