@@ -18,7 +18,7 @@ sections:
     type: section_content
     title: Technologies & Tools
     content: |-
-      I'm proficient with the following tools and technologies:
+      I'm proficient in the following tools and technologies:
 
       **Operating Systems & Shells**
       <hr>
