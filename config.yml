@@ -21,6 +21,9 @@ params:
       - label: About
         url: /about/
         style: link
+      - label: Resume
+        url: /resume/
+        style: link
       - label: Contact
         url: /contact/
         style: link

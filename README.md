@@ -13,7 +13,7 @@ I enjoy:
  * Building (support makers) :toolbox:
  * Gaming :video_game:
 
-## Technologies and Tools
+<!-- ## Technologies and Tools
 
 ![](https://img.shields.io/badge/os-linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/shell-bash-informational?style=flat&logo=GNU+Bash&logoColor=white&color=2bbc8a)
@@ -53,7 +53,7 @@ I enjoy:
 <hr>
 
 ![](https://img.shields.io/badge/SBC-raspberry_pi-informational?style=flat&logo=Raspberry+Pi&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/iot-smart_things-informational?style=flat&logo=SmartThings&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/iot-smart_things-informational?style=flat&logo=SmartThings&logoColor=white&color=2bbc8a) -->
 
 ## Active Projects
  
