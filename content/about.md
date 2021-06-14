@@ -1,17 +1,15 @@
 ---
-title: About Me
+title: About
 subtitle: >-
-  A little bit about me and my work 😎
+  want to know more about me ? 😎
 img_path: images/eric-office.jpg
 layout: page
 ---
 
-**Eric Mutua** is a Software Developer at [Techcloud. ltd](https://techcloud.co.ke), Kenya. After graduating from Daystar University with a degree in Computer Science, he worked for techcloud and later founded [Agrarian](https://agrarian-iot.github.io).
+I am a coder and maker. I love discovering new ways to make things and solve problems. I beileve in working smart and thinking out of the box.
 
-My work has been recognized by Enactus Kenya, Oracle, URBUNX Africa and ILab Africa as well as AI Kenya. In 2019 He participated in Oracle Hackothon and scopped the top prize (Oracle Students Award) alongside his fellow team members.
+My work has been recognized by Enactus Kenya, Oracle, URBUNX Africa and ILab Africa as well as AI Kenya. In 2019 I was recognised by Oracle for performing exemplary in their hackathon. 
 
-Some of his noteable work include Invoke-keyCipher, Ping_Scan and Google_search all of which can be seen from his [powershell gallery profile](https://www.powershellgallery.com/profiles/eric_tush)
-
-As a hobby, Eric Mutua authors blogs on emerging technologies as well as likes listening to podcasts, he particularly follows developertea, PowershellPodcast, cyberisim among others. He lives in Nairobi Kenya.
+As a hobby I author blogs on topics like emerging technologies. I also like listening to podcasts, I particularly listen to developertea, PowershellPodcast, cyberisim among others. I currently reside in Nairobi, Kenya
 
 _Thank You for reading!_ 👍

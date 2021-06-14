@@ -11,7 +11,7 @@ sections:
     type: section_content
     title: About
     content: |-
-      Software Developer and maker at heart. Founder and project lead of [Agrarian](https://agrarian-iot.github.io). Full stack developer with an interest in IoT  and a
+      Software Developer and maker at heart. Founder and project lead of [Agrarian](https://agrarian-iot.github.io). Full stack developer with an interest in IoT  and 
       holder of BSc Computer Science 
   - section_id: proficiency
     type: section_content
