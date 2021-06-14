@@ -11,55 +11,49 @@ sections:
     type: section_content
     title: About
     content: |-
-      Software Developer at TechCloud ltd Founder and project lead for [Agrarian](https://agrarian-iot.github.io). Full stack developer with an interest in IoT and a
-      BSc Computer Science holder
+      Software Developer and maker at heart. Founder and project lead of [Agrarian](https://agrarian-iot.github.io). Full stack developer with an interest in IoT  and a
+      holder of BSc Computer Science 
   - section_id: proficiency
     type: section_content
-    title: Technologies & Tools
+    title: Projects
     content: |-
-      I'm proficient in the following tools and technologies:
+      The following are some of my projects:
 
-      **Operating Systems & Shells**
+      **Agrarian**
       
-      ![](https://img.shields.io/badge/os-linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
-      ![](https://img.shields.io/badge/shell-bash-informational?style=flat&logo=GNU+Bash&logoColor=white&color=2bbc8a)
-      ![](https://img.shields.io/badge/shell-powershell-informational?style=flat&logo=PowerShell&logoColor=white&color=2bbc8a)
+      ![](https://github.com/ertush/Agrarian/blob/master/screenshots/Agrarian-Logo-1.png)
+      
+      Agrarian is one of the projects that I am most proud of. I started it back in school, and since then it has grown in leaps and bounds. 
 
-      **Languages**
-      
-      ![](https://img.shields.io/badge/code-c-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
-      ![](https://img.shields.io/badge/code-c++-informational?style=flat&logo=Cplusplus&logoColor=white&color=2bbc8a)
-      ![](https://img.shields.io/badge/code-go-informational?style=flat&logo=Go&logoColor=white&color=2bbc8a)
-      ![](https://img.shields.io/badge/code-js-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
-      ![](https://img.shields.io/badge/code-python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
-      ![](https://img.shields.io/badge/code-php-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
+      For more info about the project:
+      - ![agrarian.io website](https://agrarian-iot.github.io)
+      - ![agrarian repo](https://github.com/ertush/Agrarian.git)
+      - ![agrarian web app](https://agrarian-iot.netlify.app) 
 
-      **Frameworks & Runtimes**
+      <hr>
       
-      ![](https://img.shields.io/badge/runtime-nodejs-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
-      ![](https://img.shields.io/badge/iot%20editor-nodered-informational?style=flat&logo=Node-RED&logoColor=white&color=2bbc8a)
-      ![](https://img.shields.io/badge/containers-docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
-      ![](https://img.shields.io/badge/framework-bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a)
-      ![](https://img.shields.io/badge/container_ochestrator-kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=2bbc8a)
-      ![](https://img.shields.io/badge/web-jekyll-informational?style=flat&logo=Jekyll&logoColor=white&color=2bbc8a)
-      ![](https://img.shields.io/badge/ci-github_actions-informational?style=flat&logo=Github+Actions&logoColor=white&color=2bbc8a)
+      **Google_Search**
 
-      **Code Editors & Applications** 
+      ![](https://github.com/ertush/google_search/blob/master/screenshots/google_search_pw.png)
       
-      ![](https://img.shields.io/badge/code_editor-vscode-informational?style=flat&logo=Visual+Studio+Code&logoColor=white&color=2bbc8a)
-      ![](https://img.shields.io/badge/code_editor-arduino.cc-informational?style=flat&logo=Arduino&logoColor=white&color=2bbc8a)
-      ![](https://img.shields.io/badge/iot_protocol-mosquitto-informational?style=flat&logo=Eclipse+Mosquitto&logoColor=white&color=2bbc8a)
+       google_search is a useful command line tool written in powershell. It can be run on any platform using docker. It is allows you to launch a google search from powershell or bash or any unix based terminal. You can get it from ![powershell gallery](https://https://www.powershellgallery.com/packages/google_search/1.1.2)
+      
+      <hr>
 
-      **Databases**
-      
-      ![](https://img.shields.io/badge/dbs-mongo-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
-      ![](https://img.shields.io/badge/dbs-redis-informational?style=flat&logo=Redis&logoColor=white&color=2bbc8a)
-      ![](https://img.shields.io/badge/dbs-influxdb-informational?style=flat&logo=InfluxDB&logoColor=white&color=2bbc8a)
+      **Ping_Scan**
 
-      **SBCs**
+      ![](https://github.com/ertush/ping_scan/blob/master/screenshots/ping_scan_pw.png)
+
+      ping_scan is a useful command line utility written in powershell, that allows you to scan a range of hosts in a LAN. It returns the number of alive host in a network as well as their respective Ip addresses. It is network interface specific. Download it from ![powershell galery](https://www.powershellgallery.com/packages/ping_scan/0.1.3.6) or get the ![docker image](https://hub.docker.com/r/ricodck/ping-addressrange/tags?page=1&ordering=last_updated)
+
+      <hr>
+
+      **Invoke_KeyCipher**
+
+      ![](https://github.com/ertush/KeyCipher_Crypto_Py/blob/v0.1.3_docker/screenshots/keyCipher_pw.png)
+
+      invoke_kecipher is a cryptographic command line utility written in powershell and also available as a ![docker image](https://hub.docker.com/r/ricodck/invoke-keycipher/tags?page=1&ordering=last_updated). You can also download it from ![powershell gallery](https://www.powershellgallery.com/packages/Invoke_KeyCipher/0.1.3.1)
       
-      ![](https://img.shields.io/badge/SBC-raspberry_pi-informational?style=flat&logo=Raspberry+Pi&logoColor=white&color=2bbc8a)
-      ![](https://img.shields.io/badge/iot-smart_things-informational?style=flat&logo=SmartThings&logoColor=white&color=2bbc8a)
       
     actions:
       - label: Contact Me

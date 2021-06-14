@@ -12,9 +12,11 @@ layout: page
       <img 
       src="https://raw.githubusercontent.com/ertush/eric-dev-me/main/static/images/favicon.svg" 
       type="image/svg+xml"
-      width="400px"
+      width="500px"
       height="200px"
-      style="border-radius: 10%; margin-bottom: 50px"
+      style=" 
+      margin-bottom: 50px;
+      margin-right: 20px;"
       />
         <h4 class="header-4">About Me</h4>
         <p>
@@ -52,22 +54,21 @@ LinkedIn: https://www.linkedin.com/in/eric-mutua-r77/
 <div style="display: block">
 Fredrick Ogore,<br>
 HOD Computer Science Daystar University,<br>
-Email:  <span style="color:#10bcf9">fogore@daystar.ac.ke</span><br>
-Tel: +254 716 372466.<br>
 </div>
 <br>
 <div style="display: block">
 Arthur Kenndey Otieno,<br>
 Software Engineer Africa’s Talking,<br>
-Email: <span style="color:#10bcf9">kennedyotienojonyo@gmail.com</span><br>
-Tel: +254 724587654<br>
+
 </div>
 <br>
 <div style="display: block">
 Dan Mwangi,<br>
 Co-founder & Executive Director  PayCorp LLC<br>
-Email: <span style="color: #10bcf9 ">danwillie73@gmail.com</span><br>
-Tel: +254721361753<br>
+<br>
+
+_if you need to contact the referees, please reach out to me for their contacts_ 
+
 </div>
         </td>
         <td style="border: none">
