@@ -11,8 +11,8 @@ sections:
     type: section_content
     title: About
     content: |-
-      Software Developer at TechCloud ltd Founder and project lead for [Agrarian](https://agrarian-iot.github.io). Background in Internet of Things and Embedded systems development.
-      BSc Computer Science.
+      Software Developer at TechCloud ltd Founder and project lead for [Agrarian](https://agrarian-iot.github.io). Full stack developer with an interest in IoT and a
+      BSc Computer Science holder
   - section_id: proficiency
     type: section_content
     title: Technologies & Tools

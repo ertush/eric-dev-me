@@ -7,8 +7,8 @@ params:
   palette: blue
   header:
     title: "Eric Mutua"
-    tagline: eric.kimani@techcloud.co.ke
-    profile_img: images/eric-bw.jpg
+    tagline: eromtush@gmail.com
+    profile_img: images/me.jpg
     background: dark
     has_nav: true
     nav_links:
