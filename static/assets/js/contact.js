@@ -1,3 +1,3 @@
-const onSubmit = (e) => {
-    console.log(e)
+const onSubmit = () => {
+    console.log("Message Submitted")
 }
