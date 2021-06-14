@@ -1,7 +1,7 @@
 {
   "name": "eric-dev-me",
   "version": "1.0.0",
-  "description": "A personal theme for my site",
+  "description": "My personal web site",
   "main": "public/index.html",
   "scripts": {
     "build": "unibit build",
