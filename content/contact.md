@@ -7,7 +7,7 @@ sections:
     content: |-
       To get in touch please fill the form below.
     form_id: contactForm
-    # form_action: /thank-you
+    form_action: /thank-you
     form_fields:
       - input_type: text
         name: name
@@ -34,11 +34,6 @@ sections:
       - input_type: checkbox
         name: consent
         label: I understand that this form is storing my submitted information so I can be contacted.
-    # submit_label: Send Message
-    actions:
-      - label: Send Message
-        url: /thank-you
-        style: button
-        id: send-message
+    submit_label: Send Message
 layout: advanced
 ---

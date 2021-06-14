@@ -32,6 +32,6 @@ document.querySelector('#to-top').addEventListener('click', function (e) {
 });
 
 //send-message action button
-document.getElementById('#send-message').addEventListener('click', function(e) {
-  console.log('Message sent by ', e.target.value);
+document.querySelector('#contactForm').addEventListener('submit', function(e) {
+  console.log('Message sent by with event', e);
 })
