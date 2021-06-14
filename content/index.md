@@ -26,9 +26,9 @@ sections:
       Agrarian is one of the projects that I am most proud of. I started it back in school, and since then it has grown in leaps and bounds. 
 
       For more info about the project:
-      - ![agrarian.io website](https://agrarian-iot.github.io)
-      - ![agrarian repo](https://github.com/ertush/Agrarian.git)
-      - ![agrarian web app](https://agrarian-iot.netlify.app) 
+      - [agrarian website](https://agrarian-iot.github.io)
+      - [agrarian repo](https://github.com/ertush/Agrarian.git)
+      - [agrarian app](https://agrarian-iot.netlify.app) 
 
       <hr>
       
@@ -36,7 +36,7 @@ sections:
 
       ![](https://i.ibb.co/6H1Yg6m/google-search-pw.png)
       
-       google_search is a useful command line tool written in powershell. It can be run on any platform using docker. It is allows you to launch a google search from powershell or bash or any unix based terminal. You can get it from ![powershell gallery](https://https://www.powershellgallery.com/packages/google_search/1.1.2)
+       google_search is a useful command line tool written in powershell. It can be run on any platform using docker. It is allows you to launch a google search from powershell or bash or any unix based terminal. You can get it from [powershell gallery](https://https://www.powershellgallery.com/packages/google_search/1.1.2)
       
       <hr>
 
@@ -44,7 +44,7 @@ sections:
 
       ![](https://i.ibb.co/dr7XVJh/ping-scan-pw.png)
 
-      ping_scan is a useful command line utility written in powershell, that allows you to scan a range of hosts in a LAN. It returns the number of alive host in a network as well as their respective Ip addresses. It is network interface specific. Download it from ![powershell galery](https://www.powershellgallery.com/packages/ping_scan/0.1.3.6) or get the ![docker image](https://hub.docker.com/r/ricodck/ping-addressrange/tags?page=1&ordering=last_updated)
+      ping_scan is a useful command line utility written in powershell, that allows you to scan a range of hosts in a LAN. It returns the number of alive host in a network as well as their respective Ip addresses. It is network interface specific. Download it from [powershell galery](https://www.powershellgallery.com/packages/ping_scan/0.1.3.6) or get the [docker image](https://hub.docker.com/r/ricodck/ping-addressrange/tags?page=1&ordering=last_updated)
 
       <hr>
 
@@ -52,7 +52,7 @@ sections:
 
       ![](https://i.ibb.co/D58nTpF/key-Cipher-pw.png)
 
-      invoke_kecipher is a cryptographic command line utility written in powershell and also available as a ![docker image](https://hub.docker.com/r/ricodck/invoke-keycipher/tags?page=1&ordering=last_updated). You can also download it from ![powershell gallery](https://www.powershellgallery.com/packages/Invoke_KeyCipher/0.1.3.1)
+      invoke_kecipher is a cryptographic command line utility written in powershell and also available as a [docker image](https://hub.docker.com/r/ricodck/invoke-keycipher/tags?page=1&ordering=last_updated). You can also download it from [powershell gallery](https://www.powershellgallery.com/packages/Invoke_KeyCipher/0.1.3.1)
       
       
     actions:
