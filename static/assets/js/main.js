@@ -30,13 +30,3 @@ document.querySelector('#to-top').addEventListener('click', function (e) {
   e.preventDefault();
   document.querySelector('#page').scrollIntoView({ behavior: 'smooth' });
 });
-
-//send-message action button
-
-var sendMessage = (e) => {
-  console.log('Message sent by with event', e);
-}
-
-document.querySelector('#contactForm').addEventListener('submit', function(e) {
-  console.log('submit triggered')
-})

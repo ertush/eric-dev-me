@@ -7,7 +7,7 @@ sections:
     content: |-
       To get in touch please fill the form below.
     form_id: contactForm
-    # form_action:
+    form_action: https://eric-dev-me-default-rtdb.firebaseio.com/user.json?auth={{process.env.AUTH_TOKEN}}
     form_fields:
       - input_type: text
         name: name

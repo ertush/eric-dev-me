@@ -7,7 +7,7 @@
     {% if section.content %}
     {{ section.content | markdownify }}
     {% endif %}
-    <form name="{{ section.form_id }}" onsubmit="onSubmit($event)" id="{{ section.form_id }}" {% if section.form_action %} action="https://eric-dev-me-default-rtdb.firebaseio.com/user.json?auth={{ `${process.env.AUTH_TOKEN}` }}" {% endif %}method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
+    <form name="{{ section.form_id }}" onsubmit="onSubmit($event)" id="{{ section.form_id }}" {% if section.form_action %} action="{{ section.form_action }}" {% endif %}method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
       <div class="screen-reader-text">
         <label>Don't fill this out if you're human: <input name="bot-field" /></label>
       </div>
