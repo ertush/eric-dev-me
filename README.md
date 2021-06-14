@@ -1,4 +1,4 @@
- <img src="https://raw.githubusercontent.com/ertush/ertush/master/hello_Computer.gif" width="150px">
+ <!-- <img src="https://raw.githubusercontent.com/ertush/ertush/master/hello_Computer.gif" width="150px">
 
 Hi, I'm Eric <img src="https://raw.githubusercontent.com/ertush/ertush/master/wave.gif" width="30px">
 
@@ -77,4 +77,7 @@ You can find me on [![Twitter][1.2]][1], [![LinkedIn][3.2]][3] or [visit my site
 [1]: https://twitter.com/eromtush
 [3]: https://www.linkedin.com/in/eric-mutua-r77/
 
+ -->
+## My Web Site
 
+![](https://raw.githubusercontent.com/ertush/eric-dev-me/main/static/images/favicon.svg)

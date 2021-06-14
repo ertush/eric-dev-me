@@ -24,11 +24,10 @@ sections:
       ![](https://i.ibb.co/5RZQNjH/Agrarian-Logo-1.png)
       
       Agrarian is one of the projects that I am most proud of. I started it back in school, and since then it has grown in leaps and bounds. 
-
-      For more info about the project:
+      For more info about the project visit:
       - [agrarian website](https://agrarian-iot.github.io)
       - [agrarian repo](https://github.com/ertush/Agrarian.git)
-      - [agrarian app](https://agrarian-iot.netlify.app) 
+      - [agrarian app](https://agrarian-io-pwa.netlify.app/#/signin) 
 
       <hr>
       
@@ -53,7 +52,8 @@ sections:
       ![](https://i.ibb.co/D58nTpF/key-Cipher-pw.png)
 
       invoke_kecipher is a cryptographic command line utility written in powershell and also available as a [docker image](https://hub.docker.com/r/ricodck/invoke-keycipher/tags?page=1&ordering=last_updated). You can also download it from [powershell gallery](https://www.powershellgallery.com/packages/Invoke_KeyCipher/0.1.3.1)
-      
+
+      <hr>
       
     actions:
       - label: Contact Me

@@ -30,3 +30,8 @@ document.querySelector('#to-top').addEventListener('click', function (e) {
   e.preventDefault();
   document.querySelector('#page').scrollIntoView({ behavior: 'smooth' });
 });
+
+//send-message action button
+document.getElementById('#send-message').addEventListener('click', function(e) {
+  console.log('Message sent by ', e.target.value);
+})
