@@ -8,14 +8,22 @@ layout: page
 <div class="responsive-table">
   <table >
       <tr>
-        <td style="border: none">
+        <td style="
+        border: none;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: flex-start;
+        ">
       <img 
-      src="/static/images/favicon.svg" 
-      type="image/svg+xml"
-      width="200px"
-      height="200px"
-      style="margin-right: 10px;
-        margin-bottom: 50px"
+      src="https://i.ibb.co/HNq0dz7/favicon.png" 
+      alt="logo"
+      style="
+        flex: 1;
+        margin-right: 5px;
+        border-radius: 12px;
+        margin-top: 25px;
+        margin-bottom: 200px"
       />
         <h4 class="header-4">About Me</h4>
         <p>
