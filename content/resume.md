@@ -10,11 +10,11 @@ layout: page
       <tr>
         <td style="border: none">
       <img 
-      src="https://github.com/ertush/eric-dev-me/blob/master/static/images/favicon.svg" 
+      src="/static/images/favicon.svg" 
       type="image/svg+xml"
       width="200px"
-      height="100px"
-      style="margin-left: 10px;
+      height="200px"
+      style="margin-right: 10px;
         margin-bottom: 50px"
       />
         <h4 class="header-4">About Me</h4>
