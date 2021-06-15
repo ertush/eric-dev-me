@@ -10,7 +10,7 @@ layout: page
       <tr>
         <td style="border: none">
       <img 
-      src="https://raw.githubusercontent.com/ertush/eric-dev-me/main/static/images/favicon.svg" 
+      src="https://github.com/ertush/eric-dev-me/blob/master/static/images/favicon.svg" 
       type="image/svg+xml"
       width="200px"
       height="100px"
