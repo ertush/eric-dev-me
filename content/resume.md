@@ -30,7 +30,7 @@ I am also the founder and developer of an award winning innovation dubbed Agrari
     PHONE:
 +254 707649392
 
-WEBSITE: https://eric-dev-me.vercel.app
+WEBSITE: https://eric-mutua.vercel.app
 
 EMAIL: eromtush@gmail.com
 </p>
