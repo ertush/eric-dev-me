@@ -1,4 +1,6 @@
 
 function onSubmit(){
-    alert("Successfuly sent your message. Thank You!")
+    setTimeout(() => {
+        alert("Successfuly sent your message. Thank You!")
+    },  9000);
 }
