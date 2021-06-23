@@ -7,7 +7,7 @@
     {% if section.content %}
     {{ section.content | markdownify }}
     {% endif %}
-    <form name="{{ section.form_id }}" onsubmit="onSubmit()" id="{{ section.form_id }}" {% if section.form_action %} {% endif %} action="{{section.form_action}}" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
+    <form name="{{ section.form_id }}" onsubmit="onSubmit()" enctype="application/x-www-form-urlencoded" id="{{ section.form_id }}" {% if section.form_action %}action="{{section.form_action}}" {% endif %}method="POST"  data-netlify="true" data-netlify-honeypot="bot-field">
       <div class="screen-reader-text">
         <label>Don't fill this out if you're human: <input name="bot-field" /></label>
       </div>
@@ -15,7 +15,7 @@
       {% for field in section.form_fields %}
         {% set include_dict = {'field': field} %}
         {% include "form_field.html" %}
-      {% endfor %}
+      {% endfor %}  
       <div class="form-submit">
         <button type="submit" class="button">{{ section.submit_label }}</button>
       </div>

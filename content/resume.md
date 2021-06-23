@@ -19,6 +19,7 @@ layout: page
       src="https://i.ibb.co/HNq0dz7/favicon.png" 
       alt="logo"
       style="
+       width: 300px;
         flex: 1;
         margin-right: 5px;
         border-radius: 12px;

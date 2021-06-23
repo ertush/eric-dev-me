@@ -7,13 +7,13 @@ sections:
     content: |-
       To get in touch please fill the form below.
     form_id: contactForm
-    form_action: /thank-you  
+    form_action: 'https://support-api.vercel.app/api/v1/users.js'
     form_fields:
       - input_type: text
         name: name
         label: Name
         default_value: Your name
-        is_required: true
+        is_required: true 
       - input_type: email
         name: email
         label: Email

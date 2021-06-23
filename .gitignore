@@ -1,5 +1,6 @@
 .DS_Store
 .jekyll-metadata
+.env
 _site
 /public
 /node_modules
