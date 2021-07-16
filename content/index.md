@@ -20,14 +20,26 @@ sections:
       The following are some of my projects:
 
       **Agrarian**
-      
-      ![](https://i.ibb.co/5RZQNjH/Agrarian-Logo-1.png)
-      
+
+      <img width="300px" height="100px" src="https://raw.githubusercontent.com/ertush/Agrarian/master/screenshots/Agrarian-Logo-1.png" alt="agrarian-logo" />
+
       Agrarian is one of the projects that I am most proud of. I started it back in school, and since then it has grown in leaps and bounds. 
       For more info about the project visit:
       - [agrarian website](https://agrarian-iot.github.io)
       - [agrarian repo](https://github.com/ertush/Agrarian.git)
       - [agrarian app](https://agrarian-io-pwa.netlify.app/#/signin) 
+
+      <div style="display:flex; flex-flow: row nowrap; gap: 10px; justify-content: center align-items: center">
+        <div height=300px width=33% style="border: 3px solid cyan; border-radius: 20px; overflow: hidden">
+          <img src="https://raw.githubusercontent.com/ertush/Agrarian/master/screenshots/mobile-sc1.png" alt="mobile-sc1"/>
+        </div>
+        <div height=300px width=33% style="border: 3px solid cyan; border-radius: 20px; overflow: hidden">
+          <img src="https://raw.githubusercontent.com/ertush/Agrarian/master/screenshots/mobile-sc4.png" alt="mobile-sc4"/>
+        </div>
+        <div height=300px width=33% style="border: 3px solid cyan; border-radius: 20px; overflow: hidden">
+          <img src="https://raw.githubusercontent.com/ertush/Agrarian/master/screenshots/mobile-sc5.png" alt="mobile-sc5"/>
+        </div>
+      </div>
 
       <hr>
       
@@ -54,7 +66,24 @@ sections:
       invoke_kecipher is a cryptographic command line utility written in powershell and also available as a [docker image](https://hub.docker.com/r/ricodck/invoke-keycipher/tags?page=1&ordering=last_updated). You can also download it from [powershell gallery](https://www.powershellgallery.com/packages/Invoke_KeyCipher/0.1.3.1)
 
       <hr>
+
+      **![](https://raw.githubusercontent.com/ertush/Recruiter/master/public/favicon.ico) Recruiter**
+    
+      Recruiter is a simple dashboard demonstrating how to implement charts using chart.js with support for dark and light theme. It uses sass as a css pre-processor.
+
+
+      <iframe  src="https://codesandbox.io/embed/aged-haze-orzim?fontsize=14&hidenavigation=1&theme=dark"style="width:100%; height:500px; border:0; border-radius: 20px; overflow:hidden;"
+      title="aged-haze-orzim"
+      allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+      sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"></iframe>
+
+      <br/>
+      <br/>
       
+
+    
+
+
     actions:
       - label: Contact Me
         url: "/contact"
