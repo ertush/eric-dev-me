@@ -45,25 +45,37 @@ sections:
       
       **Google Search**
 
+      <a href="//www.powershellgallery.com/packages/google_search/1.1.2">
+
       ![](https://i.ibb.co/6H1Yg6m/google-search-pw.png)
+
+      </a>
       
-       google_search is a useful command line tool written in powershell. It can be run on any platform using docker. It is allows you to launch a google search from powershell or bash or any unix based terminal. You can get it from [powershell gallery](https://https://www.powershellgallery.com/packages/google_search/1.1.2)
+       google_search is a useful command line tool written in powershell. It can be run on any platform using docker. It is allows you to launch a google search from powershell or bash or any unix based terminal. 
       
       <hr>
 
       **Ping Scan**
+      
+      <a href="https://www.powershellgallery.com/packages/ping_scan/0.1.3.6">
 
       ![](https://i.ibb.co/dr7XVJh/ping-scan-pw.png)
 
+      </a>
+      
       ping_scan is a useful command line utility written in powershell, that allows you to scan a range of hosts in a LAN. It returns the number of alive host in a network as well as their respective Ip addresses. It is network interface specific. Download it from [powershell galery](https://www.powershellgallery.com/packages/ping_scan/0.1.3.6) or get the [docker image](https://hub.docker.com/r/ricodck/ping-addressrange/tags?page=1&ordering=last_updated)
 
       <hr>
 
       **Invoke KeyCipher**
+      
+      <a href="https://www.powershellgallery.com/packages/Invoke_KeyCipher/0.1.3.1">
 
       ![](https://i.ibb.co/D58nTpF/key-Cipher-pw.png)
 
-      invoke_kecipher is a cryptographic command line utility written in powershell and also available as a [docker image](https://hub.docker.com/r/ricodck/invoke-keycipher/tags?page=1&ordering=last_updated). You can also download it from [powershell gallery](https://www.powershellgallery.com/packages/Invoke_KeyCipher/0.1.3.1)
+      </a>
+      
+      invoke_kecipher is a cryptographic command line utility written in powershell and also available as a [docker image](https://hub.docker.com/r/ricodck/invoke-keycipher/tags?page=1&ordering=last_updated). Download it from [powershell gallery](https://www.powershellgallery.com/packages/Invoke_KeyCipher/0.1.3.1)
 
       <hr>
 
@@ -76,8 +88,15 @@ sections:
       allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
       sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"></iframe>
 
-      <br/>
-      <br/>
+      <hr>
+
+      **Eric's Cafe**
+
+      Eric's Cafe is a restaurant food ordering mobile App built using react native, redux and rn-tailwind
+
+      <div data-snack-id="@eric77/github.com-ertush-eric-s-cafe" data-snack-platform="android" data-snack-preview="true" data-snack-theme="dark" style="overflow:hidden;background:#F9F9F9;border:3px solid #33383f;border-radius:20px; overflow:hidden;height:700px;width:100%"></div>
+      <script async src="https://snack.expo.dev/embed.js"></script>
+
       <hr>
 
       **Finance Dark theme UI**
@@ -91,7 +110,23 @@ sections:
 
       <br/>
       <br/>
-      
+
+      **Task Scheduler Mobile UI**
+
+      Get the source code from ![github](https://github.com)
+
+      <table>
+        <tr width="100%" style="display:flex; flex-direction:'row';">
+       
+        <img style="margin: 0 10px" width="30%" height="70%" marginRight="2px" src="https://i.ibb.co/YL6KC33/Screen1.png" alt="github">
+       
+        <img style="margin: 0 10px" width="30%" height="70%" marginRight="2px" src="https://i.ibb.co/d0GY3by/Screen2.png" alt="github">
+        
+        <img style="margin: 0 10px" width="30%" height="72%" marginRight="2px" src="https://i.ibb.co/XLfG4JJ/Screen3.png" alt="github">
+
+        </tr>        
+      </table>
+       
       
     actions:
       - label: Contact Me
