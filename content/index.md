@@ -111,9 +111,9 @@ sections:
       <br/>
       <br/>
 
-      **Task Scheduler Mobile UI**
+      **Task Scheduler Mobile UI Theme**
 
-      Get the source code from <a href="https://github.com/ertush/task-scheduler-mobile-ui-theme">git</a>
+      Get the source code from <a href="https://github.com/ertush/task-scheduler-mobile-ui-theme">github</a>
 
 
       <iframe 
