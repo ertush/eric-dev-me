@@ -113,20 +113,16 @@ sections:
 
       **Task Scheduler Mobile UI**
 
-      Get the source code from ![github](https://github.com)
+      Get the source code from <a href="https://github.com/ertush/task-scheduler-mobile-ui-theme">git</a>
 
-      <table>
-        <tr width="100%" style="display:flex; flex-direction:'row';">
-       
-        <img style="margin: 0 10px" width="30%" height="70%" marginRight="2px" src="https://i.ibb.co/YL6KC33/Screen1.png" alt="github">
-       
-        <img style="margin: 0 10px" width="30%" height="70%" marginRight="2px" src="https://i.ibb.co/d0GY3by/Screen2.png" alt="github">
-        
-        <img style="margin: 0 10px" width="30%" height="72%" marginRight="2px" src="https://i.ibb.co/XLfG4JJ/Screen3.png" alt="github">
 
-        </tr>        
-      </table>
-       
+      <iframe 
+      src="https://ertush.github.io/task-scheduler-mobile-ui-theme" style="width:100%; height:760px; border: 3px solid #fff; border-radius: 20px; overflow:hidden;"
+      title="relaxed-shaw-3nzd1"
+      allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+      sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+      ></iframe>
+      
       
     actions:
       - label: Contact Me
